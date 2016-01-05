@@ -1,0 +1,16 @@
+{
+  "name": "Telegram-Bot",
+  "description": "Telegram-Bot example",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Vishal Kalaskar",
+  "dependencies": {
+    "request":"latest",
+    "lodash": "latest",
+    "moment": "latest",
+    "express": "latest",
+    "body-parser": "latest",
+
+    "telegram-bot-api" : "~0.3.2"
+  }
+}
